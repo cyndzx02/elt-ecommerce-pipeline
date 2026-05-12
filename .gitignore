@@ -1,2 +1,3 @@
 .env
 data/
+gcp_credentials.json
